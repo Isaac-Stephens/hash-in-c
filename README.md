@@ -1,0 +1,1 @@
+This will be an implementation of a hash table in C as a learning exercise.
